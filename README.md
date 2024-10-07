@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @Biplov01
-- 👀 I’m interested in machine learning,graphics design & web development ...
-- 🌱 I’m currently pursuing BE electronics & communication...
-- 💞️ I’m looking to collaborate on python, robotics & embedded systems projects..
-- 📫 you can find be on linkedin & facebook @Biplov Paneru ...
+👋 Hi, I’m @Biplov01
+👀 I’m passionate about Data Science, Machine Learning, and Python programming. With over 50+ projects completed in Natural Language Processing (NLP), data analysis, and computer vision, I have hands-on experience in building scalable solutions using modern ML techniques.
+🌱 Currently pursuing my Bachelor's in Electronics & Communication Engineering, expanding my knowledge in AI and ML applications.
+💞️ I’m open to collaboration on Python, machine learning, and data science projects.
+📫 Let's connect on LinkedIn or Facebook.
 
-<!---
-Biplov01/Biplov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 🚀🚀
-Connect with me on:
-Facebook
+
