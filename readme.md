@@ -35,8 +35,7 @@ DevOps: Docker, GitHub Actions
 <p align="center"> <a href="https://biplovp.com.np"> <img src="https://img.shields.io/badge/🌐%20Portfolio-biplovp.com.np-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/biplov-paneru-8204a31aa/"> <img src="https://img.shields.io/badge/LinkedIn-Biplov%20Paneru-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/biplovpaneru"> <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github" /> </a> <a href="https://kaggle.com/"> <img src="https://img.shields.io/badge/Kaggle-Contributor-20BEFF?style=for-the-badge&logo=kaggle" /> </a> </p>
 ⚡ Loading Animation (Aesthetic Touch)
 <p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=biplovpaneru&show_icons=true&theme=radical" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplovpaneru&layout=compact&theme=radical" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplovpaneru&theme=radical" height="165"> </p>
+
 📦 Current Work
 
 🔹 Building scalable cloud data pipelines
