@@ -1,7 +1,9 @@
 👋 Hi, I'm Biplov Paneru
 🚀 Machine Learning Engineer | Data Scientist | Cloud-Ops Engineer
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+from+Nepal;currently+Data+%26+Cloud+Engineer+for+AU-based+Company;Machine+Learning+%7C+NLP+%7C+MLOps+Specialist;Building+Scalable+Cloud-Native+ML+Systems" /> </p>
-
+<p align="center">
+  <img src="badge.avif" alt="badge" width="200">
+</p>
 Former AI Engineer (Bengaluru, Malds lab) → currently Data & Cloud Engineer for an Australian-based company, building intelligent systems, scalable data pipelines, and cloud-native ML platforms.
 
 I specialize in NLP, deep learning, traditional ML, MLOps, and building end-to-end production AI systems.
