@@ -1,5 +1,5 @@
 👋 Hi, I'm Biplov Paneru
-🚀 Machine Learning Engineer | NLP Developer | Data & Cloud Engineer
+🚀 Machine Learning Engineer | Data scientist & Cloud-Ops Engineer
 
 Former AI Engineer in Bengaluru, currently working as a Data & Cloud Engineer for an Australian-based company, building intelligent systems, scalable pipelines, and cloud-native ML solutions. I specialize in NLP, deep learning, traditional ML models, MLOps, and end-to-end production AI systems.
 
