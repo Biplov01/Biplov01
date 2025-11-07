@@ -1,20 +1,20 @@
-
 👋 Hi, I'm Biplov Paneru
-🚀 Machine Learning Engineer | Data scientist & Cloud-Ops Engineer
+🚀 Machine Learning Engineer | Data Scientist | Cloud-Ops Engineer
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=AI+Engineer+from+Bengaluru;Data+%26+Cloud+Engineer+for+AU+Company;Machine+Learning+%7C+NLP+%7C+MLOps+Specialist;Building+Scalable+Cloud-Native+ML+Systems" /> </p>
 
-Former AI Engineer in Bengaluru, currently working as a Data & Cloud Engineer for an Australian-based company, building intelligent systems, scalable pipelines, and cloud-native ML solutions. I specialize in NLP, deep learning, traditional ML models, MLOps, and end-to-end production AI systems.
+Former AI Engineer (Bengaluru) → currently Data & Cloud Engineer for an Australian company, building intelligent systems, scalable data pipelines, and cloud-native ML platforms.
 
-I love designing systems that combine ML + Data Engineering + Cloud to solve real-world problems—everything from predictive models to LLM-powered applications, feature engineering, and model optimization.
+I specialize in NLP, deep learning, traditional ML, MLOps, and building end-to-end production AI systems.
 
 🔥 What I Work On
 
-✅ Natural Language Processing (NLP)
-✅Kaggle top contributor
-✅ Deep Learning (CNNs, RNNs, LSTMs, Transformers)
-✅ Traditional ML Models (SVM, RF, CatBoost, XGBoost)
+✅ NLP (Transformers, BERT, GPT, Custom LLMs)
+✅ Kaggle Top Contributor
+✅ Deep Learning (CNN, RNN, LSTM, GRU, Transformers)
+✅ Classical ML (SVM, RF, XGBoost, CatBoost)
 ✅ Data Engineering (ETL, Airflow, Spark, BigQuery)
 ✅ Cloud (GCP, AWS, Azure)
-✅ MLOps (Docker, CI/CD, Model Deployment)
+✅ MLOps (Docker, CI/CD, ML Deployment)
 ✅ Computer Vision (YOLO, EfficientNet, DenseNet)
 
 🧠 Tech I Use
@@ -32,26 +32,20 @@ Cloud: GCP, AWS, Azure
 DevOps: Docker, GitHub Actions
 
 🌐 Portfolio & Links
+<p align="center"> <a href="https://biplovp.com.np"> <img src="https://img.shields.io/badge/🌐%20Portfolio-biplovp.com.np-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/biplov-paneru-8204a31aa/"> <img src="https://img.shields.io/badge/LinkedIn-Biplov%20Paneru-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/biplovpaneru"> <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github" /> </a> <a href="https://kaggle.com/"> <img src="https://img.shields.io/badge/Kaggle-Contributor-20BEFF?style=for-the-badge&logo=kaggle" /> </a> </p>
+⚡ Loading Animation (Aesthetic Touch)
+<p align="center"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=biplovpaneru&show_icons=true&theme=radical" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplovpaneru&layout=compact&theme=radical" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplovpaneru&theme=radical" height="165"> </p>
+📦 Current Work
 
-🔗 Website:biplovp.com.np
-
-
-🔗 LinkedIn:linkedin.com/in/biplov-paneru-8204a31aa/
-
-
-
-📊 Current Work
-
-Building scalable cloud data pipelines
-
-Developing ML models for predictive insights
-
-Training custom NLP/LLM models for domain-specific tasks
-
-Automating workflows with CI/CD + MLOps
-
-Experimenting with solar energy prediction ML models & BCI/EEG models
+🔹 Building scalable cloud data pipelines
+🔹 Developing predictive ML models
+🔹 Training custom NLP/LLM models
+🔹 Implementing CI/CD & MLOps automation
+🔹 Experimenting with solar energy ML forecasting
+🔹 Researching BCI/EEG deep learning models
 
 🎯 Goal
 
-To build high-impact AI systems, contribute to open-source ML projects, and push boundaries in NLP, Deep Learning, and Cloud-native AI.
+To build high-impact AI systems, contribute to open-source ML, and push boundaries in NLP, Deep Learning & Cloud-Native AI.
