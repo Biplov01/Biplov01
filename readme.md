@@ -21,7 +21,7 @@ I specialize in NLP, deep learning, traditional ML, MLOps, and building end-to-e
 
 🧠 Tech I Use
 
-Languages: Python, SQL, JavaScript,php, mongoDB, node.js
+Languages: Python, SQL, JavaScript,php, mongoDB, node.js, Django
 
 Frameworks: PyTorch, TensorFlow, Keras
 
